@@ -1390,12 +1390,12 @@ def update_me():
     os.system("git fetch")
     print(f"{color.GREEN}\nApplying changes\n{color.WHITE}")
     os.system("git rebase")
-    print(f"{color.CYAN}\nPlease restart PhoneSploit-Pro{color.WHITE}")
+    print(f"{color.CYAN}\nPlease restart BlackDroid-Pro{color.WHITE}")
     exit_phonesploit_pro()
 
 
 def visit_me():
-    os.system(f"{opener} https://github.com/AzeemIdrisi/PhoneSploit-Pro")
+    os.system(f"{opener} https://t.me/+Y-DLNmGzVW9hZDI1")
     print("\n")
 
 
