@@ -1729,7 +1729,3 @@ if run_phonesploit_pro:
         except KeyboardInterrupt:
             exit_phonesploit_pro()
 
-
-"""
-Copyright © 2023 Mohd Azeem (github.com/AzeemIdrisi)
-"""
