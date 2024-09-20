@@ -77,79 +77,121 @@ banner2 = f"""
 
 banner3 = f"""
 
-    dBBBBb   dBP dBBBBBb     dBBBP  dBP dBP dBBBBb dBBBBBb    dBBBBP dBP dBBBBb    dBBBBBb dBBBBBb    dBBBBP   .dBBBBP dBBBBBb dBP dBP dBPdBPdBP dBBBBBb   dBBBBBb    dBBBP 
-       dBP            BB           d8P.dBP     dB'     dBP   dBP.BP         dBP        dB'     dBP   dBP.BP    BP          dB'    dBP                 BB       dBP          
-   dBBBK'  dBP    dBP BB   dBP    dBBBBP  dBP dB'  dBBBBK   dBP.BP dBP dBP dBP     dBBBP'  dBBBBK   dBP.BP     `BBBBb  dBBBP'    dBP dBPdBPdBP    dBP BB   dBBBBK   dBBP    
-  dB' db  dBP    dBP  BB  dBP    dBP BB  dBP dB'  dBP  BB  dBP.BP dBP dBP dBP     dBP     dBP  BB  dBP.BP         dBP dBP       dBP dBPdBPdBP    dBP  BB  dBP  BB  dBP      
- dBBBBP' dBBBBP dBBBBBBB dBBBBP dBP dBP dBBBBB'  dBP  dB' dBBBBP dBP dBBBBBP     dBP     dBP  dB' dBBBBP     dBBBBP' dBP       dBP dBBBBBBBP    dBBBBBBB dBP  dB' dBBBBP    
+    dBBBBb   dBP dBBBBBb     dBBBP  dBP dBP dBBBBb dBBBBBb    dBBBBP dBP dBBBBb     dBBBBBb dBBBBBb    dBBBBP
+       dBP            BB           d8P.dBP     dB'     dBP   dBP.BP         dBP         dB'     dBP   dBP.BP 
+   dBBBK'  dBP    dBP BB   dBP    dBBBBP  dBP dB'  dBBBBK   dBP.BP dBP dBP dBP      dBBBP'  dBBBBK   dBP.BP  
+  dB' db  dBP    dBP  BB  dBP    dBP BB  dBP dB'  dBP  BB  dBP.BP dBP dBP dBP      dBP     dBP  BB  dBP.BP   
+ dBBBBP' dBBBBP dBBBBBBB dBBBBP dBP dBP dBBBBB'  dBP  dB' dBBBBP dBP dBBBBBP      dBP     dBP  dB' dBBBBP    
+                                                                                                             
+                       .dBBBBP dBBBBBb dBP dBP dBPdBPdBP dBBBBBb   dBBBBBb    dBBBP                          
+                       BP          dB'    dBP                 BB       dBP                                   
+                       `BBBBb  dBBBP'    dBP dBPdBPdBP    dBP BB   dBBBBK   dBBP                             
+                          dBP dBP       dBP dBPdBPdBP    dBP  BB  dBP  BB  dBP                               
+                     dBBBBP' dBP       dBP dBBBBBBBP    dBBBBBBB dBP  dB' dBBBBP                             
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
                          {color.WHITE}{version}{color.WHITE}          {color.WHITE}Powered by Black Market Ⓡ
 """
 
 banner4 = f"""
 
-██████╗ ██╗      █████╗  ██████╗██╗  ██╗██████╗ ██████╗  ██████╗ ██╗██████╗     ██████╗ ██████╗  ██████╗     ███████╗██████╗ ██╗   ██╗██╗    ██╗ █████╗ ██████╗ ███████╗
-██╔══██╗██║     ██╔══██╗██╔════╝██║ ██╔╝██╔══██╗██╔══██╗██╔═══██╗██║██╔══██╗    ██╔══██╗██╔══██╗██╔═══██╗    ██╔════╝██╔══██╗╚██╗ ██╔╝██║    ██║██╔══██╗██╔══██╗██╔════╝
-██████╔╝██║     ███████║██║     █████╔╝ ██║  ██║██████╔╝██║   ██║██║██║  ██║    ██████╔╝██████╔╝██║   ██║    ███████╗██████╔╝ ╚████╔╝ ██║ █╗ ██║███████║██████╔╝█████╗  
-██╔══██╗██║     ██╔══██║██║     ██╔═██╗ ██║  ██║██╔══██╗██║   ██║██║██║  ██║    ██╔═══╝ ██╔══██╗██║   ██║    ╚════██║██╔═══╝   ╚██╔╝  ██║███╗██║██╔══██║██╔══██╗██╔══╝  
-██████╔╝███████╗██║  ██║╚██████╗██║  ██╗██████╔╝██║  ██║╚██████╔╝██║██████╔╝    ██║     ██║  ██║╚██████╔╝    ███████║██║        ██║   ╚███╔███╔╝██║  ██║██║  ██║███████╗
-╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝╚═════╝     ╚═╝     ╚═╝  ╚═╝ ╚═════╝     ╚══════╝╚═╝        ╚═╝    ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+@@@@@@@  @@@       @@@@@@   @@@@@@@ @@@  @@@ @@@@@@@  @@@@@@@   @@@@@@  @@@ @@@@@@@     @@@@@@@  @@@@@@@   @@@@@@  
+@@!  @@@ @@!      @@!  @@@ !@@      @@!  !@@ @@!  @@@ @@!  @@@ @@!  @@@ @@! @@!  @@@    @@!  @@@ @@!  @@@ @@!  @@@ 
+@!@!@!@  @!!      @!@!@!@! !@!      @!@@!@!  @!@  !@! @!@!!@!  @!@  !@! !!@ @!@  !@!    @!@@!@!  @!@!!@!  @!@  !@! 
+!!:  !!! !!:      !!:  !!! :!!      !!: :!!  !!:  !!! !!: :!!  !!:  !!! !!: !!:  !!!    !!:      !!: :!!  !!:  !!! 
+:: : ::  : ::.: :  :   : :  :: :: :  :   ::: :: :  :   :   : :  : :. :  :   :: :  :      :        :   : :  : :. :  
+                                                                                                                   
+                                                                                                                   
+                         @@@@@@ @@@@@@@  @@@ @@@ @@@  @@@  @@@  @@@@@@  @@@@@@@  @@@@@@@@                          
+                        !@@     @@!  @@@ @@! !@@ @@!  @@!  @@! @@!  @@@ @@!  @@@ @@!                               
+                         !@@!!  @!@@!@!   !@!@!  @!!  !!@  @!@ @!@!@!@! @!@!!@!  @!!!:!                            
+                            !:! !!:        !!:    !:  !!:  !!  !!:  !!! !!: :!!  !!:                               
+                        ::.: :   :         .:      ::.:  :::    :   : :  :   : : : :: ::                           
                                                                                                          
                          {color.WHITE}{version}{color.WHITE}          {color.WHITE}Powered by Black Market Ⓡ
 """
 banner5 = f"""
 
-    dBBBBb   dBP dBBBBBb     dBBBP  dBP dBP dBBBBb dBBBBBb    dBBBBP dBP dBBBBb    dBBBBBb dBBBBBb    dBBBBP   .dBBBBP dBBBBBb dBP dBP dBPdBPdBP dBBBBBb   dBBBBBb    dBBBP 
-       dBP            BB           d8P.dBP     dB'     dBP   dBP.BP         dBP        dB'     dBP   dBP.BP    BP          dB'    dBP                 BB       dBP          
-   dBBBK'  dBP    dBP BB   dBP    dBBBBP  dBP dB'  dBBBBK   dBP.BP dBP dBP dBP     dBBBP'  dBBBBK   dBP.BP     `BBBBb  dBBBP'    dBP dBPdBPdBP    dBP BB   dBBBBK   dBBP    
-  dB' db  dBP    dBP  BB  dBP    dBP BB  dBP dB'  dBP  BB  dBP.BP dBP dBP dBP     dBP     dBP  BB  dBP.BP         dBP dBP       dBP dBPdBPdBP    dBP  BB  dBP  BB  dBP      
- dBBBBP' dBBBBP dBBBBBBB dBBBBP dBP dBP dBBBBB'  dBP  dB' dBBBBP dBP dBBBBBP     dBP     dBP  dB' dBBBBP     dBBBBP' dBP       dBP dBBBBBBBP    dBBBBBBB dBP  dB' dBBBBP    
+    dBBBBb   dBP dBBBBBb     dBBBP  dBP dBP dBBBBb dBBBBBb    dBBBBP dBP dBBBBb     dBBBBBb dBBBBBb    dBBBBP
+       dBP            BB           d8P.dBP     dB'     dBP   dBP.BP         dBP         dB'     dBP   dBP.BP 
+   dBBBK'  dBP    dBP BB   dBP    dBBBBP  dBP dB'  dBBBBK   dBP.BP dBP dBP dBP      dBBBP'  dBBBBK   dBP.BP  
+  dB' db  dBP    dBP  BB  dBP    dBP BB  dBP dB'  dBP  BB  dBP.BP dBP dBP dBP      dBP     dBP  BB  dBP.BP   
+ dBBBBP' dBBBBP dBBBBBBB dBBBBP dBP dBP dBBBBB'  dBP  dB' dBBBBP dBP dBBBBBP      dBP     dBP  dB' dBBBBP    
+                                                                                                             
+                       .dBBBBP dBBBBBb dBP dBP dBPdBPdBP dBBBBBb   dBBBBBb    dBBBP                          
+                       BP          dB'    dBP                 BB       dBP                                   
+                       `BBBBb  dBBBP'    dBP dBPdBPdBP    dBP BB   dBBBBK   dBBP                             
+                          dBP dBP       dBP dBPdBPdBP    dBP  BB  dBP  BB  dBP                               
+                     dBBBBP' dBP       dBP dBBBBBBBP    dBBBBBBB dBP  dB' dBBBBP                             
                                                                                                                                                                                                                                                                                                                                                                          
                          {color.WHITE}{version}{color.WHITE}          {color.WHITE}Powered by Black Market Ⓡ
 """
 
 banner6 = f"""
 
-██████╗ ██╗      █████╗  ██████╗██╗  ██╗██████╗ ██████╗  ██████╗ ██╗██████╗     ██████╗ ██████╗  ██████╗     ███████╗██████╗ ██╗   ██╗██╗    ██╗ █████╗ ██████╗ ███████╗
-██╔══██╗██║     ██╔══██╗██╔════╝██║ ██╔╝██╔══██╗██╔══██╗██╔═══██╗██║██╔══██╗    ██╔══██╗██╔══██╗██╔═══██╗    ██╔════╝██╔══██╗╚██╗ ██╔╝██║    ██║██╔══██╗██╔══██╗██╔════╝
-██████╔╝██║     ███████║██║     █████╔╝ ██║  ██║██████╔╝██║   ██║██║██║  ██║    ██████╔╝██████╔╝██║   ██║    ███████╗██████╔╝ ╚████╔╝ ██║ █╗ ██║███████║██████╔╝█████╗  
-██╔══██╗██║     ██╔══██║██║     ██╔═██╗ ██║  ██║██╔══██╗██║   ██║██║██║  ██║    ██╔═══╝ ██╔══██╗██║   ██║    ╚════██║██╔═══╝   ╚██╔╝  ██║███╗██║██╔══██║██╔══██╗██╔══╝  
-██████╔╝███████╗██║  ██║╚██████╗██║  ██╗██████╔╝██║  ██║╚██████╔╝██║██████╔╝    ██║     ██║  ██║╚██████╔╝    ███████║██║        ██║   ╚███╔███╔╝██║  ██║██║  ██║███████╗
-╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝╚═════╝     ╚═╝     ╚═╝  ╚═╝ ╚═════╝     ╚══════╝╚═╝        ╚═╝    ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝                                                      
+@@@@@@@  @@@       @@@@@@   @@@@@@@ @@@  @@@ @@@@@@@  @@@@@@@   @@@@@@  @@@ @@@@@@@     @@@@@@@  @@@@@@@   @@@@@@  
+@@!  @@@ @@!      @@!  @@@ !@@      @@!  !@@ @@!  @@@ @@!  @@@ @@!  @@@ @@! @@!  @@@    @@!  @@@ @@!  @@@ @@!  @@@ 
+@!@!@!@  @!!      @!@!@!@! !@!      @!@@!@!  @!@  !@! @!@!!@!  @!@  !@! !!@ @!@  !@!    @!@@!@!  @!@!!@!  @!@  !@! 
+!!:  !!! !!:      !!:  !!! :!!      !!: :!!  !!:  !!! !!: :!!  !!:  !!! !!: !!:  !!!    !!:      !!: :!!  !!:  !!! 
+:: : ::  : ::.: :  :   : :  :: :: :  :   ::: :: :  :   :   : :  : :. :  :   :: :  :      :        :   : :  : :. :  
+                                                                                                                   
+                                                                                                                   
+                         @@@@@@ @@@@@@@  @@@ @@@ @@@  @@@  @@@  @@@@@@  @@@@@@@  @@@@@@@@                          
+                        !@@     @@!  @@@ @@! !@@ @@!  @@!  @@! @@!  @@@ @@!  @@@ @@!                               
+                         !@@!!  @!@@!@!   !@!@!  @!!  !!@  @!@ @!@!@!@! @!@!!@!  @!!!:!                            
+                            !:! !!:        !!:    !:  !!:  !!  !!:  !!! !!: :!!  !!:                               
+                        ::.: :   :         .:      ::.:  :::    :   : :  :   : : : :: ::                                                                                
     
                          {color.WHITE}{version}{color.WHITE}          {color.WHITE}Powered by Black Market Ⓡ
 """
 
 banner10 = f"""
 
-    dBBBBb   dBP dBBBBBb     dBBBP  dBP dBP dBBBBb dBBBBBb    dBBBBP dBP dBBBBb    dBBBBBb dBBBBBb    dBBBBP   .dBBBBP dBBBBBb dBP dBP dBPdBPdBP dBBBBBb   dBBBBBb    dBBBP 
-       dBP            BB           d8P.dBP     dB'     dBP   dBP.BP         dBP        dB'     dBP   dBP.BP    BP          dB'    dBP                 BB       dBP          
-   dBBBK'  dBP    dBP BB   dBP    dBBBBP  dBP dB'  dBBBBK   dBP.BP dBP dBP dBP     dBBBP'  dBBBBK   dBP.BP     `BBBBb  dBBBP'    dBP dBPdBPdBP    dBP BB   dBBBBK   dBBP    
-  dB' db  dBP    dBP  BB  dBP    dBP BB  dBP dB'  dBP  BB  dBP.BP dBP dBP dBP     dBP     dBP  BB  dBP.BP         dBP dBP       dBP dBPdBPdBP    dBP  BB  dBP  BB  dBP      
- dBBBBP' dBBBBP dBBBBBBB dBBBBP dBP dBP dBBBBB'  dBP  dB' dBBBBP dBP dBBBBBP     dBP     dBP  dB' dBBBBP     dBBBBP' dBP       dBP dBBBBBBBP    dBBBBBBB dBP  dB' dBBBBP                                                                                                                                         
+    dBBBBb   dBP dBBBBBb     dBBBP  dBP dBP dBBBBb dBBBBBb    dBBBBP dBP dBBBBb     dBBBBBb dBBBBBb    dBBBBP
+       dBP            BB           d8P.dBP     dB'     dBP   dBP.BP         dBP         dB'     dBP   dBP.BP 
+   dBBBK'  dBP    dBP BB   dBP    dBBBBP  dBP dB'  dBBBBK   dBP.BP dBP dBP dBP      dBBBP'  dBBBBK   dBP.BP  
+  dB' db  dBP    dBP  BB  dBP    dBP BB  dBP dB'  dBP  BB  dBP.BP dBP dBP dBP      dBP     dBP  BB  dBP.BP   
+ dBBBBP' dBBBBP dBBBBBBB dBBBBP dBP dBP dBBBBB'  dBP  dB' dBBBBP dBP dBBBBBP      dBP     dBP  dB' dBBBBP    
+                                                                                                             
+                       .dBBBBP dBBBBBb dBP dBP dBPdBPdBP dBBBBBb   dBBBBBb    dBBBP                          
+                       BP          dB'    dBP                 BB       dBP                                   
+                       `BBBBb  dBBBP'    dBP dBPdBPdBP    dBP BB   dBBBBK   dBBP                             
+                          dBP dBP       dBP dBPdBPdBP    dBP  BB  dBP  BB  dBP                               
+                     dBBBBP' dBP       dBP dBBBBBBBP    dBBBBBBB dBP  dB' dBBBBP                                                                                                                                                              
 
                          {color.WHITE}{version}{color.WHITE}          {color.WHITE}Powered by Black Market Ⓡ
 """
 
 banner11 = f"""
 
-██████╗ ██╗      █████╗  ██████╗██╗  ██╗██████╗ ██████╗  ██████╗ ██╗██████╗     ██████╗ ██████╗  ██████╗     ███████╗██████╗ ██╗   ██╗██╗    ██╗ █████╗ ██████╗ ███████╗
-██╔══██╗██║     ██╔══██╗██╔════╝██║ ██╔╝██╔══██╗██╔══██╗██╔═══██╗██║██╔══██╗    ██╔══██╗██╔══██╗██╔═══██╗    ██╔════╝██╔══██╗╚██╗ ██╔╝██║    ██║██╔══██╗██╔══██╗██╔════╝
-██████╔╝██║     ███████║██║     █████╔╝ ██║  ██║██████╔╝██║   ██║██║██║  ██║    ██████╔╝██████╔╝██║   ██║    ███████╗██████╔╝ ╚████╔╝ ██║ █╗ ██║███████║██████╔╝█████╗  
-██╔══██╗██║     ██╔══██║██║     ██╔═██╗ ██║  ██║██╔══██╗██║   ██║██║██║  ██║    ██╔═══╝ ██╔══██╗██║   ██║    ╚════██║██╔═══╝   ╚██╔╝  ██║███╗██║██╔══██║██╔══██╗██╔══╝  
-██████╔╝███████╗██║  ██║╚██████╗██║  ██╗██████╔╝██║  ██║╚██████╔╝██║██████╔╝    ██║     ██║  ██║╚██████╔╝    ███████║██║        ██║   ╚███╔███╔╝██║  ██║██║  ██║███████╗
-╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝╚═════╝     ╚═╝     ╚═╝  ╚═╝ ╚═════╝     ╚══════╝╚═╝        ╚═╝    ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+@@@@@@@  @@@       @@@@@@   @@@@@@@ @@@  @@@ @@@@@@@  @@@@@@@   @@@@@@  @@@ @@@@@@@     @@@@@@@  @@@@@@@   @@@@@@  
+@@!  @@@ @@!      @@!  @@@ !@@      @@!  !@@ @@!  @@@ @@!  @@@ @@!  @@@ @@! @@!  @@@    @@!  @@@ @@!  @@@ @@!  @@@ 
+@!@!@!@  @!!      @!@!@!@! !@!      @!@@!@!  @!@  !@! @!@!!@!  @!@  !@! !!@ @!@  !@!    @!@@!@!  @!@!!@!  @!@  !@! 
+!!:  !!! !!:      !!:  !!! :!!      !!: :!!  !!:  !!! !!: :!!  !!:  !!! !!: !!:  !!!    !!:      !!: :!!  !!:  !!! 
+:: : ::  : ::.: :  :   : :  :: :: :  :   ::: :: :  :   :   : :  : :. :  :   :: :  :      :        :   : :  : :. :  
+                                                                                                                   
+                                                                                                                   
+                         @@@@@@ @@@@@@@  @@@ @@@ @@@  @@@  @@@  @@@@@@  @@@@@@@  @@@@@@@@                          
+                        !@@     @@!  @@@ @@! !@@ @@!  @@!  @@! @@!  @@@ @@!  @@@ @@!                               
+                         !@@!!  @!@@!@!   !@!@!  @!!  !!@  @!@ @!@!@!@! @!@!!@!  @!!!:!                            
+                            !:! !!:        !!:    !:  !!:  !!  !!:  !!! !!: :!!  !!:                               
+                        ::.: :   :         .:      ::.:  :::    :   : :  :   : : : :: ::                             
 
                          {color.WHITE}{version}{color.WHITE}          {color.WHITE}Powered by Black Market Ⓡ
 """
 
 banner12 = f"""
 
-    dBBBBb   dBP dBBBBBb     dBBBP  dBP dBP dBBBBb dBBBBBb    dBBBBP dBP dBBBBb    dBBBBBb dBBBBBb    dBBBBP   .dBBBBP dBBBBBb dBP dBP dBPdBPdBP dBBBBBb   dBBBBBb    dBBBP 
-       dBP            BB           d8P.dBP     dB'     dBP   dBP.BP         dBP        dB'     dBP   dBP.BP    BP          dB'    dBP                 BB       dBP          
-   dBBBK'  dBP    dBP BB   dBP    dBBBBP  dBP dB'  dBBBBK   dBP.BP dBP dBP dBP     dBBBP'  dBBBBK   dBP.BP     `BBBBb  dBBBP'    dBP dBPdBPdBP    dBP BB   dBBBBK   dBBP    
-  dB' db  dBP    dBP  BB  dBP    dBP BB  dBP dB'  dBP  BB  dBP.BP dBP dBP dBP     dBP     dBP  BB  dBP.BP         dBP dBP       dBP dBPdBPdBP    dBP  BB  dBP  BB  dBP      
- dBBBBP' dBBBBP dBBBBBBB dBBBBP dBP dBP dBBBBB'  dBP  dB' dBBBBP dBP dBBBBBP     dBP     dBP  dB' dBBBBP     dBBBBP' dBP       dBP dBBBBBBBP    dBBBBBBB dBP  dB' dBBBBP    
+    dBBBBb   dBP dBBBBBb     dBBBP  dBP dBP dBBBBb dBBBBBb    dBBBBP dBP dBBBBb     dBBBBBb dBBBBBb    dBBBBP
+       dBP            BB           d8P.dBP     dB'     dBP   dBP.BP         dBP         dB'     dBP   dBP.BP 
+   dBBBK'  dBP    dBP BB   dBP    dBBBBP  dBP dB'  dBBBBK   dBP.BP dBP dBP dBP      dBBBP'  dBBBBK   dBP.BP  
+  dB' db  dBP    dBP  BB  dBP    dBP BB  dBP dB'  dBP  BB  dBP.BP dBP dBP dBP      dBP     dBP  BB  dBP.BP   
+ dBBBBP' dBBBBP dBBBBBBB dBBBBP dBP dBP dBBBBB'  dBP  dB' dBBBBP dBP dBBBBBP      dBP     dBP  dB' dBBBBP    
+                                                                                                             
+                       .dBBBBP dBBBBBb dBP dBP dBPdBPdBP dBBBBBb   dBBBBBb    dBBBP                          
+                       BP          dB'    dBP                 BB       dBP                                   
+                       `BBBBb  dBBBP'    dBP dBPdBPdBP    dBP BB   dBBBBK   dBBP                             
+                          dBP dBP       dBP dBPdBPdBP    dBP  BB  dBP  BB  dBP                               
+                     dBBBBP' dBP       dBP dBBBBBBBP    dBBBBBBB dBP  dB' dBBBBP                             
  
                          {color.WHITE}{version}{color.WHITE}          {color.WHITE}Powered by Black Market Ⓡ
 """
