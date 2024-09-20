@@ -72,7 +72,7 @@ banner2 = f"""
 ██████╔╝███████╗██║  ██║╚██████╗██║  ██╗██████╔╝██║  ██║╚██████╔╝██║██████╔╝    ██║     ██║  ██║╚██████╔╝    ███████║██║        ██║   ╚███╔███╔╝██║  ██║██║  ██║███████╗
 ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝╚═════╝     ╚═╝     ╚═╝  ╚═╝ ╚═════╝     ╚══════╝╚═╝        ╚═╝    ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝                                                                                                                                                                        
                                                                                                          
-            {color.GREEN}{version}{color.WHITE}            {color.WHITE}Powered by Black Market Ⓡ
+                         {color.WHITE}{version}{color.WHITE}          {color.WHITE}Powered by Black Market Ⓡ
 """
 
 banner3 = f"""
@@ -83,7 +83,7 @@ banner3 = f"""
   dB' db  dBP    dBP  BB  dBP    dBP BB  dBP dB'  dBP  BB  dBP.BP dBP dBP dBP     dBP     dBP  BB  dBP.BP         dBP dBP       dBP dBPdBPdBP    dBP  BB  dBP  BB  dBP      
  dBBBBP' dBBBBP dBBBBBBB dBBBBP dBP dBP dBBBBB'  dBP  dB' dBBBBP dBP dBBBBBP     dBP     dBP  dB' dBBBBP     dBBBBP' dBP       dBP dBBBBBBBP    dBBBBBBB dBP  dB' dBBBBP    
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-            {color.GREEN}{version}{color.WHITE}             {color.WHITE}Powered by Black Market Ⓡ
+                         {color.WHITE}{version}{color.WHITE}          {color.WHITE}Powered by Black Market Ⓡ
 """
 
 banner4 = f"""
@@ -95,7 +95,7 @@ banner4 = f"""
 ██████╔╝███████╗██║  ██║╚██████╗██║  ██╗██████╔╝██║  ██║╚██████╔╝██║██████╔╝    ██║     ██║  ██║╚██████╔╝    ███████║██║        ██║   ╚███╔███╔╝██║  ██║██║  ██║███████╗
 ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝╚═════╝     ╚═╝     ╚═╝  ╚═╝ ╚═════╝     ╚══════╝╚═╝        ╚═╝    ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
                                                                                                          
-        {color.GREEN}{version}{color.WHITE}                             {color.WHITE}Powered by Black Market Ⓡ
+                         {color.WHITE}{version}{color.WHITE}          {color.WHITE}Powered by Black Market Ⓡ
 """
 banner5 = f"""
 
@@ -105,7 +105,7 @@ banner5 = f"""
   dB' db  dBP    dBP  BB  dBP    dBP BB  dBP dB'  dBP  BB  dBP.BP dBP dBP dBP     dBP     dBP  BB  dBP.BP         dBP dBP       dBP dBPdBPdBP    dBP  BB  dBP  BB  dBP      
  dBBBBP' dBBBBP dBBBBBBB dBBBBP dBP dBP dBBBBB'  dBP  dB' dBBBBP dBP dBBBBBP     dBP     dBP  dB' dBBBBP     dBBBBP' dBP       dBP dBBBBBBBP    dBBBBBBB dBP  dB' dBBBBP    
                                                                                                                                                                                                                                                                                                                                                                          
-        {color.GREEN}{version}{color.WHITE}        {color.WHITE}Powered by Black Market Ⓡ
+                         {color.WHITE}{version}{color.WHITE}          {color.WHITE}Powered by Black Market Ⓡ
 """
 
 banner6 = f"""
@@ -117,8 +117,7 @@ banner6 = f"""
 ██████╔╝███████╗██║  ██║╚██████╗██║  ██╗██████╔╝██║  ██║╚██████╔╝██║██████╔╝    ██║     ██║  ██║╚██████╔╝    ███████║██║        ██║   ╚███╔███╔╝██║  ██║██║  ██║███████╗
 ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝╚═════╝     ╚═╝     ╚═╝  ╚═╝ ╚═════╝     ╚══════╝╚═╝        ╚═╝    ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝                                                      
     
-           {color.GREEN}{version}{color.WHITE}               {color.WHITE}Powered by Black Market Ⓡ
-
+                         {color.WHITE}{version}{color.WHITE}          {color.WHITE}Powered by Black Market Ⓡ
 """
 
 banner10 = f"""
@@ -129,8 +128,7 @@ banner10 = f"""
   dB' db  dBP    dBP  BB  dBP    dBP BB  dBP dB'  dBP  BB  dBP.BP dBP dBP dBP     dBP     dBP  BB  dBP.BP         dBP dBP       dBP dBPdBPdBP    dBP  BB  dBP  BB  dBP      
  dBBBBP' dBBBBP dBBBBBBB dBBBBP dBP dBP dBBBBB'  dBP  dB' dBBBBP dBP dBBBBBP     dBP     dBP  dB' dBBBBP     dBBBBP' dBP       dBP dBBBBBBBP    dBBBBBBB dBP  dB' dBBBBP                                                                                                                                         
 
-            {color.GREEN}{version}{color.WHITE}                                {color.WHITE}Powered by Black Market Ⓡ
-
+                         {color.WHITE}{version}{color.WHITE}          {color.WHITE}Powered by Black Market Ⓡ
 """
 
 banner11 = f"""
@@ -142,8 +140,7 @@ banner11 = f"""
 ██████╔╝███████╗██║  ██║╚██████╗██║  ██╗██████╔╝██║  ██║╚██████╔╝██║██████╔╝    ██║     ██║  ██║╚██████╔╝    ███████║██║        ██║   ╚███╔███╔╝██║  ██║██║  ██║███████╗
 ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝╚═════╝     ╚═╝     ╚═╝  ╚═╝ ╚═════╝     ╚══════╝╚═╝        ╚═╝    ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
 
-            {color.GREEN}{version}{color.WHITE}                            {color.WHITE}Powered by Black Market Ⓡ
-
+                         {color.WHITE}{version}{color.WHITE}          {color.WHITE}Powered by Black Market Ⓡ
 """
 
 banner12 = f"""
@@ -154,8 +151,7 @@ banner12 = f"""
   dB' db  dBP    dBP  BB  dBP    dBP BB  dBP dB'  dBP  BB  dBP.BP dBP dBP dBP     dBP     dBP  BB  dBP.BP         dBP dBP       dBP dBPdBPdBP    dBP  BB  dBP  BB  dBP      
  dBBBBP' dBBBBP dBBBBBBB dBBBBP dBP dBP dBBBBB'  dBP  dB' dBBBBP dBP dBBBBBP     dBP     dBP  dB' dBBBBP     dBBBBP' dBP       dBP dBBBBBBBP    dBBBBBBB dBP  dB' dBBBBP    
  
-            {color.GREEN}{version}{color.WHITE}                            {color.WHITE}Powered by Black Market Ⓡ
-
+                         {color.WHITE}{version}{color.WHITE}          {color.WHITE}Powered by Black Market Ⓡ
 """
 banner_list = [
     banner2,
@@ -168,20 +164,20 @@ banner_list = [
     banner12,
 ]
 
-instructions_banner = f"""{color.CYAN}
+instructions_banner = f"""{color.GREEN}
         ____           __                  __  _                 
        /  _/___  _____/ /________  _______/ /_(_)___  ____  _____
        / // __ \/ ___/ __/ ___/ / / / ___/ __/ / __ \/ __ \/ ___/
      _/ // / / (__  ) /_/ /  / /_/ / /__/ /_/ / /_/ / / / (__  ) 
     /___/_/ /_/____/\__/_/   \__,_/\___/\__/_/\____/_/ /_/____/  
-        {color.WHITE}                                                        
+        {color.GREEN}                                                        
 """
 
 hacking_banner = f"""{color.GREEN}
     
     █░█ ▄▀█ █▀▀ █▄▀ █ █▄░█ █▀▀ ░ ░ ░
     █▀█ █▀█ █▄▄ █░█ █ █░▀█ █▄█ ▄ ▄ ▄
-    {color.WHITE}
+    {color.GREEN}
 """
 
 keycode_menu = f"""
